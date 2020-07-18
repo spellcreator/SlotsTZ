@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd39e476092c15e41a6a2a3faba82db3, type: 3}
+  m_Name: New Cherry
+  m_EditorClassIdentifier: 
+  isSpined: 0
+  image: {fileID: 21300000, guid: 866cd97fef85f644687538b4c8cb6514, type: 3}
+  spinedImage: {fileID: 21300000, guid: df4e156f30e55c348b24443621ac4f03, type: 3}
